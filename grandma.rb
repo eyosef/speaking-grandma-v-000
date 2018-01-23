@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(yousay)
-  if yousay == true
+  if yousay == "I LOVE YOU GRANDMA!"
     return "HUH?! SPEAK UP, SONNY!"
   end #if statement
 end #method
