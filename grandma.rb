@@ -3,7 +3,7 @@
 def speak_to_grandma(yousay)
   if yousay == yousay.uppercase
     return "I LOVE YOU TOO PUMPKIN!"
-  elsif yousay == "Hi Nana, how are you?"
+  elsif yousay == yousay.lowercase
     return "HUH?! SPEAK UP, SONNY!"
   elsif yousay == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
