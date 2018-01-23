@@ -2,7 +2,7 @@
 
 def speak_to_grandma(yousay)
   if yousay == "I LOVE YOU GRANDMA!"
-    return "'I LOVE YOU TOO PUMPKIN!'"
+    return "I LOVE YOU TOO PUMPKIN!"
   end #if statement
 end #method
 
