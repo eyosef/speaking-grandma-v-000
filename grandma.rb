@@ -5,6 +5,8 @@ def speak_to_grandma(yousay)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif yousay == "Hi Nana, how are you?"
     return "HUH?! SPEAK UP, SONNY!"
+  elsif yousay == "Hi!"
+    return "HUH?! SPEAK UP, SONNY!"
   end #if statement
 end #method
 
