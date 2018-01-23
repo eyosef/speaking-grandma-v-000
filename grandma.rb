@@ -7,6 +7,8 @@ def speak_to_grandma(yousay)
     return "HUH?! SPEAK UP, SONNY!"
   elsif yousay == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
+  elsif yousay == "WHAT DID YOU EAT TODAY?"
+    return "NO, NOT SINCE 1938!"
   end #if statement
 end #method
 
