@@ -3,7 +3,8 @@
 def speak_to_grandma(yousay)
   if yousay == true
     return "HUH?! SPEAK UP, SONNY!"
-end
+  end #if statement
+end #method
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
